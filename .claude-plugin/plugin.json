@@ -1,0 +1,24 @@
+{
+  "name": "kmp-skills-by-filip",
+  "version": "1.0.0",
+  "description": "Agent skills for Kotlin Multiplatform and Compose Multiplatform on iOS and Android: 14 skills of real library and platform traps, each with the symptom, the cause, the fix and the versions, plus a UI review workflow.",
+  "author": {
+    "name": "Filip Kowalski",
+    "url": "https://github.com/filippkowalski"
+  },
+  "homepage": "https://github.com/filippkowalski/kmp-skills-by-filip",
+  "repository": "https://github.com/filippkowalski/kmp-skills-by-filip",
+  "license": "MIT",
+  "keywords": [
+    "kotlin",
+    "kotlin-multiplatform",
+    "kmp",
+    "compose-multiplatform",
+    "android",
+    "ios",
+    "ktor",
+    "kotlinx-serialization",
+    "revenuecat",
+    "agent-skills"
+  ]
+}
